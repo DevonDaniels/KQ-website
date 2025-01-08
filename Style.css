@@ -508,7 +508,7 @@ background-image: url(images/gallery-1.jpeg);*/
     .hero-section .hero-details .buttons {
         display: flex;
         position:absolute;
-        left: 200px;
+        left: 150px;
         bottom: 100px;
         gap: 23px;
         
